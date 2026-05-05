@@ -11,7 +11,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 # ========== НАСТРОЙКИ - ЗАМЕНИТЕ НА ВАШИ ДАННЫЕ ==========
 BOT_TOKEN = '8609830135:AAE__L_gE9j3jSy1WZvrBvtdgRcna6y1gnY'
-ADMIN_ID = 123456789  # ЗАМЕНИТЕ НА ВАШ TELEGRAM ID (узнайте у @userinfobot)
+ADMIN_ID = 5260847958  # ЗАМЕНИТЕ НА ВАШ TELEGRAM ID (узнайте у @userinfobot)
 
 bot = Bot(token=BOT_TOKEN)
 storage = MemoryStorage()
